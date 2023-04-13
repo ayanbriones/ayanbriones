@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ayanbriones.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning frontend development.
 - 💞️ I’m looking to collaborate on anything that would help me grow and gain experience.
 
 <!---
